@@ -15,8 +15,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-social-link-profile-with-html-and-css-lq1WIX2_OH)
+- Live Site URL: [Live Site](https://ahmed-elgammal-900.github.io/Social-Link-Profile/)
 
 
 ## Author
